@@ -1,6 +1,3 @@
-Thanks for downloading this template!
-
-Template Name: WeBuild
-Template URL: https://bootstrapmade.com/free-bootstrap-coming-soon-template-countdwon/
-Author: BootstrapMade.com
+Template Name: RAM Engineers
+Author: Sushen Shekar
 License: https://bootstrapmade.com/license/
